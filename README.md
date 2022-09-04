@@ -8,11 +8,8 @@ Jangan lupa untuk mengikuti github ku
 * My WhatsApp [`Click Here`](https://wa.me/6283178623789?text=Assalamualaikum)
 * My Instagram [`Click Here`](https://instagram.com/mhdarif.09)
 
-## Viewer 👁️
-<p align="center"><img src="https://profile-counter.glitch.me/{Aiinne}/count.svg" alt="neoxr :: Visitor's Count" /></p>
-
 ## Heroku Buildpack
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mhdarif09/bot-wa)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -38,8 +35,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
-cd Aine-MD
+git clone https://github.com/mhdarif09/bot-wa
+cd bot-wa
 pkg install yarn
 yarn
 
@@ -69,14 +66,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & AINE-MD ]
+[ INSTALLING NODEJS & bot-wa ]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/mhdarif09/bot-wa
+cd bot-wa
 npm install
 npm update
 ```
@@ -92,7 +89,7 @@ npm update
 
 ```bash
 git clone https://github.com/mhdarif09/bot-wa/
-cd Aiinne-MD
+cd bot-wa
 npm install
 npm update
 ```
@@ -112,9 +109,9 @@ Choose your repo
 
 ---------
 
-## PANEL/RDP/VPS
+## FORUM
 
-* Amiruldev [`Click Here`](https://www.amiruldev.my.id)
+* SenpaixCrew [`Click Here`](https://senpaixcrew.org)
 
 
 ---------
@@ -188,7 +185,7 @@ conn.logger.level = 'debug'
 
 ## Settings
 
-Now set using switch [enable.js](https://github.com/Aiinne/Aine-MD/blob/master/plugins/enable.js), among others are
+Now set using switch [enable.js](https://github.com/mhdarif09/bot-wa/blob/master/plugins/enable.js), among others are
 
 ```js
 autoread: false, // If true all chats are automatically read
